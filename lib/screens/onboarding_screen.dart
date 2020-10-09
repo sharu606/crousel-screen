@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:crousel_screen/utilities/styles.dart';
-import 'package:crousel_screen/background.dart';
 
 class OnboardingScreen extends StatefulWidget {
   @override
